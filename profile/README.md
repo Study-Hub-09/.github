@@ -1,5 +1,6 @@
-# 🌳 항해99 14기 9조 실전프로젝트 : STUDY HUB 🌳
-![1](https://github.com/Study-Hub-09/StudyHub_FE/assets/129656095/995d1d64-5777-4434-b8e0-25d31e33fd64)
+# 🌳 STUDY HUB 🌳
+![1](https://github.com/Study-Hub-09/.github/assets/129656095/2ef6cd85-b5ba-4afc-95e7-d441bf68b7ed)
+
 
 
 
