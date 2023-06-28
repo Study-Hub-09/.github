@@ -1,5 +1,6 @@
 # 🌳 STUDY HUB 🌳
-![1](https://github.com/Study-Hub-09/.github/assets/129656095/2ef6cd85-b5ba-4afc-95e7-d441bf68b7ed)
+![1](https://github.com/Study-Hub-09/.github/assets/129656095/24d3b492-f77d-4781-9e5c-4faf0ba35cd3)
+
 
 
 
